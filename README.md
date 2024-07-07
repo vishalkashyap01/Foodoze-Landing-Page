@@ -24,7 +24,7 @@ To view the website locally or contribute to its development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/foodie-delights.git
+   git clone https://github.com/vishalkashyap01/foodoze-home-page.git
 
 2. Open the project in VS Code or your preferred code editor.
 
